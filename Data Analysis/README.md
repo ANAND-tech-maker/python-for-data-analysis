@@ -28,7 +28,19 @@ Each project focuses on solving real-world problems using **Python, data analysi
 
 ### 3. 📊 Telecom churn prediction  
 - **Goal**: Short description of what problem it solves  
-- **Steps**: Mention your workflow in 2–3 points  
+- As part of my data science journey, I developed a churn prediction model aimed at helping telecom companies identify customers at risk of leaving their services. The project involved the complete data science lifecycle — from data preprocessing to model deployment.
+
+📌 Objectives:
+
+Predict customer churn using historical usage and service data
+Provide insights to support proactive retention strategies
+🛠️ Tech Stack & Methodologies:
+
+Data Cleaning & Exploration: Identified key churn indicators through EDA
+Feature Engineering: Transformed raw data to improve model performance
+Modeling: Built and compared models using Logistic Regression, Random Forest, and XGBoost
+Evaluation: Achieved strong predictive performance using metrics like accuracy, precision, recall, and ROC-AUC
+📊 Impact: This project demonstrates how machine learning can empower telecom providers to make data-informed decisions, reduce customer turnover, and improve business outcomes.  
 
 ---
 
