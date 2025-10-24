@@ -8,7 +8,6 @@
 ## 🚀 Key Skills & Tools
 - Python 3.x
 - Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn,
-- Others: SQL, Excel
 
 ## 🧩 Folder Structure
 <details>
