@@ -7,11 +7,8 @@
 
 ## 🚀 Key Skills & Tools
 - Python 3.x
-- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
-- Machine Learning & Deep Learning: Scikit-learn, TensorFlow, Keras, PyTorch
-- Web Development: Flask, Django
-- Automation & Scripting: Selenium, BeautifulSoup, OpenCV
-- Others: SQL, Excel, CSV
+- Data Analysis & Visualization: Pandas, NumPy, Matplotlib, Seaborn,
+- Others: SQL, Excel
 
 ## 🧩 Folder Structure
 <details>
