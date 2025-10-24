@@ -5,7 +5,9 @@ This repository contains comprehensive Python learning material covering everyth
 It demonstrates practical skills and hands-on experience with Python programming, including core concepts, OOP, 
 file handling, exception handling, and popular Python libraries.
 
+
 🧩 Folder Structure
+
 Introduction_to_Python – Overview of Python, installation, and setup
 
 Python_Basics – Variables, data types, operators, and basic operations
@@ -24,6 +26,8 @@ OOPS – Classes, objects, inheritance, polymorphism, and encapsulation
 
 Python_Libraries – Overview and usage of popular libraries (Pandas, NumPy, Matplotlib, etc.)
 
+
+
 🚀 Skills Demonstrated
 Writing clean and efficient Python code
 
@@ -35,8 +39,13 @@ Using Python modules and packages effectively
 
 Data analysis, visualization, and working with popular Python libraries
 
+
+
 🛠️ Tools & Libraries
+
 Python 3.x, Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI, Scikit-learn, TensorFlow, Keras, PyTorch, Flask, Django, Selenium, BeautifulSoup, OpenCV, SQL, Excel
+
+
 
 📫 Contact
 
